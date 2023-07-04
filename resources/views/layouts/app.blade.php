@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <h1>Provient de cette page</h1>
+
     @yield('page-content')
 </body>
 </html>
